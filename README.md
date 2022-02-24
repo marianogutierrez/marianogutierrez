@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Mariano!
-- I'm always learning or refining what I new topics related to the CS discipline.
+- I'm always exploring different topics in the CS discipline, or refining what I already know!
 - I use a variety of languages, but I have a soft spot for Python and Java.
 - I'm mainly interested in Networked applications, Algorithms, and Automation.
 - In my free time, I'm learning about Computer Graphics.
